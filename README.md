@@ -1,5 +1,7 @@
 # Tess
-weevely benzeri sadece komut çalıştırabileceğiniz bir webshell
+weevely benzeri komut satırı üzerinden kullanabileceğiniz webshell
+
+https://turkhackteam.org/konular/tess-komut-satiri-uzerinden-kullanabileceginiz-webshell.2034127/
 
 ![1](https://user-images.githubusercontent.com/116445223/219945268-5a96ec40-834f-4532-a675-2c8917db4302.png)
 ![2](https://user-images.githubusercontent.com/116445223/219945283-51b603d7-919c-4697-8774-2740b2626877.png)
