@@ -151,7 +151,7 @@ def php_kod_olusturucu():
 def main():
     console.print("""
 {0}[{1}+{0}] Coded by Will Graham // github.com/cannibal-hannibal/Tess
-{0}[{1}+{0}] Tess v1.0 - webshell
+{0}[{1}+{0}] Tess v1.0 - komut satırı üzerinden kullanabileceğiniz webshell
     """.format("[bright_white]","[light_green]"))
 
     ch = confirm("Yeni bir php kodu oluşturmak ister misiniz?")
