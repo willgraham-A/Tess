@@ -113,7 +113,6 @@ def shell(URL, PASS):
                 pwd = dizin
             elif dizin == "..":
                 d = pwd.split("/")[:-1]
-                d 
                 pwd = ""
                 for i in d:
                     if i.strip() == "":
